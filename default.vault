@@ -1,0 +1,10 @@
+[primary]
+type      = ftp-user
+host      = integerfox.com
+vault_dir = 
+user      = outcast
+password  = pass1234$
+
+
+[mirror1]
+
