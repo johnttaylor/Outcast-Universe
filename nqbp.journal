@@ -19,3 +19,6 @@
 ~~~~~; 1424745415; Mon, 23 Feb 2015 20:36:55; DO_NOT_USE; john; 1.0.1; main; show stopper bug: include of libdirs.b file does not work when src file is not a local package
 
 
+~~~~~; 1424745426; Mon, 23 Feb 2015 20:37:06; DO_NOT_USE; john; 1.0.2; main; show stopper bug: include of libdirs.b file does not work when src file is not a local package
+
+
