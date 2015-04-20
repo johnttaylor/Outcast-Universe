@@ -7,3 +7,6 @@
 ~~~~~; 1429493582; Sun, 19 Apr 2015 20:33:02; PUBLISH; DaVinci <build.machine@noemail.com>; 1.1.1; main; n/a; set proper weak dependencies (work-around for weak-cyclic use case - which is valid - but the tool support is missing)
 
 
+~~~~~; 1429503271; Sun, 19 Apr 2015 23:14:31; DEPRECATE; john; 1.1.0; main; does not have the correct weak deps
+
+
